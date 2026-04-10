@@ -109,7 +109,7 @@ export default function Hero() {
                 View Projects
               </a>
               <a
-                href="https://github.com/yashverma25"
+                href="https://github.com/YashVermaTech"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="px-6 py-3 rounded-xl border border-white/10 text-gray-300 font-semibold text-sm hover:bg-white/5 transition-all duration-300 hover:-translate-y-0.5"

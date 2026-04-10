@@ -13,7 +13,7 @@ export default function Footer() {
             Email
           </a>
           <a
-            href="https://linkedin.com/in/yashverma25104"
+            href="https://www.linkedin.com/in/yash-verma-16b592192/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 text-sm hover:text-primary transition-colors"
@@ -21,7 +21,7 @@ export default function Footer() {
             LinkedIn
           </a>
           <a
-            href="https://github.com/yashverma25"
+            href="https://github.com/YashVermaTech"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 text-sm hover:text-primary transition-colors"

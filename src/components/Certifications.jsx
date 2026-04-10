@@ -24,8 +24,8 @@ const certifications = [
 
 const socialLinks = [
   { name: 'Email', icon: '✉️', href: 'mailto:yashverma25104@gmail.com', label: 'yashverma25104@gmail.com' },
-  { name: 'LinkedIn', icon: '💼', href: 'https://linkedin.com/in/yashverma25104', label: 'linkedin.com/in/yashverma25104' },
-  { name: 'GitHub', icon: '🔗', href: 'https://github.com/yashverma25', label: 'github.com/yashverma25' },
+  { name: 'LinkedIn', icon: '💼', href: 'https://www.linkedin.com/in/yash-verma-16b592192/', label: 'linkedin.com/in/yash-verma-16b592192' },
+  { name: 'GitHub', icon: '🔗', href: 'https://github.com/YashVermaTech', label: 'github.com/YashVermaTech' },
 ]
 
 export default function Certifications() {
